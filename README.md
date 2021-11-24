@@ -1,3 +1,6 @@
+#improving flexibility
+#this fork is under construction!
+
 # LDAP User Manager
 
 This is a PHP LDAP account manager; a web-based GUI interface which allows you to quickly populate a new LDAP directory and easily manage user accounts and groups.  It also has a self-service password change module.   
